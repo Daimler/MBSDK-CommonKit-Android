@@ -1,0 +1,9 @@
+ext {
+    compileSdk = 28
+    minSdk = 21
+    targetSdk = 27
+
+    moduleName = 'MBCommonKit'
+
+    sampleAppId = "com.daimler.mm.modules.${moduleName.toLowerCase()}.sample"
+}

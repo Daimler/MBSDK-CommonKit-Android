@@ -1,0 +1,18 @@
+ext {
+    kotlinVersion = '1.3.61'
+    gradleVersion = '3.5.3'
+
+    appcompatLibVersion = '1.1.0'
+    constraintLayoutVersion = '1.1.3'
+
+    mbloggerkit_version = '2.0.2'
+
+    jacocoAndroidPluginVersion = '0.2'
+    androidJunit5Plugin_version = '1.5.2.0'
+    junit5Version = '5.6.0'
+    espressoVersion = '3.2.0'
+    junitVersion = '4.12'
+    testRunnerVersion = '1.2.0'
+    androidxJUnitVersion = '1.1.0'
+    mockkVersion = '1.9.3'
+}
